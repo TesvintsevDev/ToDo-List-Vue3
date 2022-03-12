@@ -1,3 +1,3 @@
 # ToDo-List-Vue3
 
-- Demo App: tesvintsevdev.github.io/todo-list-vue3/
+- Demo App: https://tesvintsevdev.github.io/ToDo-List-Vue3/
